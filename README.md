@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gil-R-Python, MSC student at UFPR
+- 👋 Hi, I’m @Gil-R-Python aka Gilmarks, MSC student at UFPR
 - 👀 I’m interested in R and Python for statistic modelling
 - 🌱 I’m currently learning about methods in statistic with packages and tutorials in R and Python for finance or business in general.
 - 💞️ I’m looking to collaborate on research in finance in priori.
